@@ -1,7 +1,7 @@
 # Mdoule 4 Assignment: Code Quiz
 
 ## Description
-I created a timed quiz on JavaScript fundamentals that stores high scores. The app runs in the browser, and will features dynamically updated HTML and CSS powered by JavaScript. It has a clean, polished, and responsive user interface. 
+I created a timed quiz on JavaScript fundamentals that stores high scores. The app runs in the browser, and features dynamically updated HTML and CSS powered by JavaScript. It has a clean, polished, and responsive user interface. 
 
 ## Acceptance Criteria
 GIVEN I am taking a code quiz
