@@ -1,5 +1,5 @@
 # code-quiz
-User Story
+## User Story
 AS A coding boot camp student
 I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
 SO THAT I can gauge my progress compared to my peers
@@ -18,10 +18,13 @@ THEN I can save my initials and score
 Mock-Up
 The following animation demonstrates the application functionality:
 
-Code Quiz
+## Code Quiz
 image.png
-Grading Requirements
-NOTE
+
+## Grading Requirements
+
+
+## NOTE
 If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
 
 A repository that has no code
@@ -32,7 +35,7 @@ A repository that includes only a README file but nothing else
 
 A repository that only includes starter code
 
-This challenge is graded based on the following criteria:
+## This challenge is graded based on the following criteria:
 
 Technical Acceptance Criteria: 40%
 Satisfies all of the above acceptance criteria.
@@ -62,3 +65,6 @@ Repository follows best practices for class/id naming conventions, indentation, 
 Repository contains multiple descriptive commit messages.
 
 Repository contains a high-quality README file with description, screenshot, and link to deployed application.
+
+## Contributor:
+Habib Jah  ©2022 All Rights Reserved.
