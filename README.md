@@ -1,9 +1,10 @@
 # Mdoule 4 Assignment: Code Quiz
-## User Story
-AS A coding boot camp student
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
+
+## Description
+I created a timed quiz on JavaScript fundamentals that stores high scores
 SO THAT I can gauge my progress compared to my peers
-Acceptance Criteria
+
+## Acceptance Criteria
 GIVEN I am taking a code quiz
 WHEN I click the start button
 THEN a timer starts and I am presented with a question
@@ -66,6 +67,6 @@ Repository follows best practices for class/id naming conventions, indentation, 
 Repository contains multiple descriptive commit messages.
 
 Repository contains a high-quality README file with description, screenshot, and link to deployed application.
-
+---
 ## Contributor:
 Habib Jah  ©2022 All Rights Reserved.
