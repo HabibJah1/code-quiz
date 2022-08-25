@@ -1,4 +1,4 @@
-# code-quiz
+# Mdoule 4 Assignment: Code Quiz
 ## User Story
 AS A coding boot camp student
 I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
@@ -19,7 +19,8 @@ Mock-Up
 The following animation demonstrates the application functionality:
 
 ## Code Quiz
-image.png
+![image](https://user-images.githubusercontent.com/107855022/186553496-0dad0da1-74be-4637-bdaa-8ce1c76904b6.png)
+
 
 ## Grading Requirements
 
